@@ -6,7 +6,7 @@
 [![@godwinowonam's Holopin board](https://holopin.me/godwinowonam)](https://holopin.io/@godwinowonam)
 
 - 👋 Hi, I’m @GodwinOwonam
-- 👀 I’m interested in Web Development and software development with C# and Python
+- 👀 I’m interested in Web Development and software development with Java and Spring Boot, PHP-LARAVEL, and NodeJS
 - 🌱 I’m interested in Web Backend Development 
 - 💞️ I’m looking to collaborate on web and software projects
 - 📫 How to reach me on LinkedIn https://www.linkedin.com/in/godwin-owonam-4a4612216
